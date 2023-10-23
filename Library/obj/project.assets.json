@@ -14,19 +14,6 @@
             "related": ".xml"
           }
         }
-      },
-      "Library/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3"
-        },
-        "compile": {
-          "bin/placeholder/Library.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Library.dll": {}
-        }
       }
     }
   },
@@ -60,16 +47,10 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
-    },
-    "Library/1.0.0": {
-      "type": "project",
-      "path": "../Library/Library.csproj",
-      "msbuildProject": "../Library/Library.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Library >= 1.0.0",
       "Newtonsoft.Json >= 13.0.3"
     ]
   },
@@ -79,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sanzhar\\RiderProjects\\Practice.Work7\\Practice.Work7\\Practice.Work7.csproj",
-      "projectName": "Practice.Work7",
-      "projectPath": "C:\\Users\\Sanzhar\\RiderProjects\\Practice.Work7\\Practice.Work7\\Practice.Work7.csproj",
+      "projectUniqueName": "C:\\Users\\Sanzhar\\RiderProjects\\Practice.Work7\\Library\\Library.csproj",
+      "projectName": "Library",
+      "projectPath": "C:\\Users\\Sanzhar\\RiderProjects\\Practice.Work7\\Library\\Library.csproj",
       "packagesPath": "C:\\Users\\Sanzhar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sanzhar\\RiderProjects\\Practice.Work7\\Practice.Work7\\obj\\",
+      "outputPath": "C:\\Users\\Sanzhar\\RiderProjects\\Practice.Work7\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sanzhar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,11 +80,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "C:\\Users\\Sanzhar\\RiderProjects\\Practice.Work7\\Library\\Library.csproj": {
-              "projectPath": "C:\\Users\\Sanzhar\\RiderProjects\\Practice.Work7\\Library\\Library.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

@@ -12,3 +12,8 @@ C:\Users\Sanzhar\RiderProjects\Practice.Work7\Practice.Work7\obj\Debug\net7.0\re
 C:\Users\Sanzhar\RiderProjects\Practice.Work7\Practice.Work7\obj\Debug\net7.0\Practice.Work7.pdb
 C:\Users\Sanzhar\RiderProjects\Practice.Work7\Practice.Work7\obj\Debug\net7.0\Practice.Work7.genruntimeconfig.cache
 C:\Users\Sanzhar\RiderProjects\Practice.Work7\Practice.Work7\obj\Debug\net7.0\ref\Practice.Work7.dll
+C:\Users\Sanzhar\RiderProjects\Practice.Work7\Practice.Work7\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Sanzhar\RiderProjects\Practice.Work7\Practice.Work7\obj\Debug\net7.0\Practice.Work7.csproj.AssemblyReference.cache
+C:\Users\Sanzhar\RiderProjects\Practice.Work7\Practice.Work7\obj\Debug\net7.0\Practice.Work7.csproj.CopyComplete
+C:\Users\Sanzhar\RiderProjects\Practice.Work7\Practice.Work7\bin\Debug\net7.0\Library.dll
+C:\Users\Sanzhar\RiderProjects\Practice.Work7\Practice.Work7\bin\Debug\net7.0\Library.pdb
