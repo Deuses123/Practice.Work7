@@ -72,9 +72,6 @@ public struct ComplexStruct
         return new ComplexStruct(real, imaginary);
     }
 }
-
-
-
 public class ComplexClass
 {
     public double Real { get; set; }

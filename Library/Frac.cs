@@ -1,6 +1,5 @@
-﻿using Library;
+﻿namespace Library;
 
-using System;
 public class Frac
 {
     private long numerator;
