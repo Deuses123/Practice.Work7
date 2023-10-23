@@ -1,4 +1,4 @@
-﻿namespace Practice.Work7;
+﻿namespace Library;
 
 public class Class
 {

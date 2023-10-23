@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
-using Practice.Work7;
-using Array = Practice.Work7.Array;
+using Library;
+using Array = Library.Array;
 
 public class Program
 {
@@ -73,13 +73,12 @@ public class Program
         {
             Console.Write(i + " ");
         }
-        Console.WriteLine();
 
 
         //Task6
         Console.WriteLine("\nTask 6 Проверка ручного Decimal ");
-        var num1 = new Practice.Work7.Decimal("10000002000000");
-        var num2 = new Practice.Work7.Decimal("20000003000000");
+        var num1 = new Library.Decimal("10000002000000");
+        var num2 = new Library.Decimal("20000003000000");
         Console.WriteLine($"num1 = {num1}");
         Console.WriteLine($"num2 = {num2}");
 

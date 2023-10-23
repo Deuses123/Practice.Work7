@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Practice.Work7;
+namespace Library;
 
 using System;
 using System.Linq;

@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Practice.Work7;
+namespace Library;
 
 using System;
 

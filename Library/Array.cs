@@ -1,6 +1,4 @@
-﻿namespace Practice.Work7;
-
-using System;
+﻿namespace Library;
 
 public class Array
 {

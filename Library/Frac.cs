@@ -1,4 +1,4 @@
-﻿namespace Practice.Work7;
+﻿using Library;
 
 using System;
 public class Frac
